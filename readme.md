@@ -4,9 +4,9 @@
 
 **Author:** Dhiya Kassim 
 
-**Database Engine:** MySQL Server 8.0.46+ (`InnoDB`, `utf8mb4`)
+**Database Engine:** MySQL Server 8.0.46+
 
-**Application Stack:** PHP 8.x (`PDO` Prepared Statements, Transactional Locking, CSRF Protection) + HTML5/CSS3
+
 
 ## 1. Project Overview & Textbook Adaptation
 
